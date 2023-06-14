@@ -2,7 +2,7 @@
 variable "region" {
   type = string
   description = "Default AWS region"
-  default = "eu-west-1"
+  #default = "eu-west-1"
 }
 
 ### SUBNETS ###
